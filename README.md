@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andreabrumana
 - 👀 I’m interested in Data Analysis!
-- 🌱 I’m currently learning dbt and Prefect
+- 🌱 I’m currently learning dbt
 - 💞️ I’m looking to collaborate on Data analytics
 - 📫 How to reach me andreabrumana@live.it
 

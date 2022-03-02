@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andreabrumana
-- 👀 I’m interested in Data Analysis!
-- 🌱 I’m currently learning dbt
-- 💞️ I’m looking to collaborate on Data analytics
+- 👀 I am a Data Analyst!
+- 🌱 I’m currently learning dbt to expand my skillset into Analytics Engineermg
+- 💞️ I’m looking to collaborate on Data analytics/Analytics Engineering
 - 📫 How to reach me andreabrumana@live.it
 
 <!---

@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @andreabrumana
 - 👀 I am a Data Analyst working at Cloud Academy, previously at Amazon(3.5ys)
-- 🌱 I’m currently learning dbt/Python to expand my skillset
-- 💞️ I’m looking to collaborate on Data analytics
+- 🌱 I’m currently learning Python to expand my skillset towards Data Science
 - 📫 How to reach me andreabrumana12@gmail.com
 
 <!---
